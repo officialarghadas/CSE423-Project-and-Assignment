@@ -1,10 +1,10 @@
-Hello its Argha here. 
+Hello, it's Argha here. 
 
 
-I have added all the assignemnts here, wish it will help you. 
+I have added all the assignments here, I hope it will help you. 
 
 
-CSE423 Project--
+BRAC University CSE423 Project--
 Feature of  Game--
                                          JUDDO-THE FIGHT
 
