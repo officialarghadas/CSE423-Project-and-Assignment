@@ -4,14 +4,15 @@ Hello, it's Argha here.
 I have added all the assignments here, I hope it will help you. 
 
 
-BRAC University CSE423 Project--
-Feature of  Game--
+BRAC University Computer Graphic Project CSE423---- A Single/Multiplayer fighting game
+
+Feature of Game--
                                          JUDDO-THE FIGHT
 
 
 Different game windows: Main menu, Single-player character selection, Multiplayer character selection.
 Main Menu: Organised button system, Hover system on the button, Dynamic button size 
-Single-player character selection: Unique characters, each character has different abilities example: more damage, more fire rate, more health
+Single-player character selection: Unique characters, each character has different abilities, for example: more damage, more fire rate, more health
 Multiplayer character selection: two players can play simultaneously using one keyboard and mouse. If both players can independently select their character. If both players do not select an agent the start button stays greyed out, once both select the button turns green and becomes clickable.
 Simultaneous 8-direction moving system: Both players can simultaneously give input to move, it can move sideways and diagonally and shoot at the same time.
 Aiming mechanism: Unique aiming mechanism with aim indicator. 
