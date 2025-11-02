@@ -1,5 +1,3 @@
-# JUDDO-THE FIGHT Project — Full In-Depth GPT-Style Analysis
-
 ## Overview
 
 **JUDDO-THE FIGHT** is an interactive, action-oriented 2D shooter game built using Python and OpenGL (PyOpenGL). The project merges classic arcade gameplay mechanics with modern programming techniques, placing two stickman warriors against each other (or against the computer) in a dynamic, obstacle-filled arena. Players select characters, utilize special abilities, dodge obstacles, collect coins, and aim to outmaneuver and outgun their opponent across multiple rounds.
